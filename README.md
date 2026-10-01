@@ -1,3 +1,5 @@
+> **Archived 30 September 2026.** Development continues in [zpkt](https://github.com/becker929/zpkt), at `ears/`. History was carried over with the code.
+
 # ears — Audio Perception Layer
 
 `ears` gives the agent the ability to listen. It takes an audio file and
